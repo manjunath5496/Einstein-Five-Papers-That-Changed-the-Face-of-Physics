@@ -1,4 +1,4 @@
-<img src="1.jpg" alt="Albert Einstein">
+<img src="1.jpg" alt="Albert Einstein" width="482" height="600">
 
 
 
